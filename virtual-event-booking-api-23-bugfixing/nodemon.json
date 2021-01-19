@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER": "kolapo",
+        "MONGO_PASSWORD": "IFEIDPnKMyOdLAJe",
+        "MONGO_DB": "Virtual Event Manager"
+    }
+}
